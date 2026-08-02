@@ -28,7 +28,7 @@ We are currently building predictive models and optimization frameworks for **he
 | Role | Member | Email |
 |------|--------|-----|
 | Research Coordinator | Aashutosh Jung Thapa |  <aashutosh.jt@gmail.com> |
-| Research Associate | Shreya Poudel | <shreyapoudel999@gmail.com> | 
+| Research Associate | Shreya Paudel | <shreyapoudel999@gmail.com> | 
 | Research Associate | ***Recruiting*** | - |
 
 ---
