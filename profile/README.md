@@ -16,20 +16,20 @@ We are currently building predictive models and optimization frameworks for **he
 
 ## Tools & Stack
 
-**Languages:** Python · R  
-**Forecasting:** pandas · statsmodels · Prophet · scikit-learn  
-**Visualization:** matplotlib · seaborn · ggplot2  
-**Workflow:** Git · Zotero · LaTeX
+**Languages:**  Python · R  
+**Forecasting:**  pandas · statsmodels · Prophet · scikit-learn  
+**Visualization:**  matplotlib · seaborn · ggplot2  
+**Workflow:**  Git · Zotero · LaTeX
 
 ---
 
 ## Team
 
-| Role | Member |
-|------|--------|
-| Research Coordinator | Aashutosh Jung Thapa |
-| Research Associate | Shreya Poudel |
-| Research Associate | **Recruiting** |
+| Role | Member | Email |
+|------|--------|-----|
+| Research Coordinator | Aashutosh Jung Thapa |  <aashutosh.jt@gmail.com> |
+| Research Associate | Shreya Poudel | <shreyapoudel999@gmail.com> | 
+| Research Associate | ***Recruiting*** | - |
 
 ---
 
@@ -39,5 +39,6 @@ We are currently building predictive models and optimization frameworks for **he
 - **Affiliation:** School of Mathematical Sciences, Tribhuvan University
 - **Parent Org:** Data Science Club @ SMS — R&D Committee
 
-*Supported by the School of Mathematical Sciences, Tribhuvan University.*
 ---
+
+*Supported by the School of Mathematical Sciences, Tribhuvan University.* 
